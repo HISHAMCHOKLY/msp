@@ -34,6 +34,7 @@ body{
 
 .section-3{
     background-color: #F5F4F4;
+    width: 100%;
 }
 .about-texts{
     padding-top: 30px;
@@ -43,13 +44,119 @@ body{
     font-weight: 500;
 }
 .about-p{
+    font-size: 18px;
+    padding-top: 25px;
+    line-height: 30px;
+}
+.section-4{
+    background-color: #F5F4F4;
+    width: 100%;
+}
+.dir-h{
+    font-size: 30px;
+    font-weight: 400;
+    padding: 30px;
+}
+.dir-name{
+    font-size: 17px;
+    margin-bottom: 0px;
+
+}
+.dir-pos{
     font-size: 15px;
-    padding-top: 30px;
-    line-height: 25px;
+    font-weight: 700;
+}
+.section-5{
+    background-color: #F5F4F4;
+    width: 100%;
 }
 
+.product-h{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600;
 
+}
+.product-p{
+    padding-bottom: 30px;
+}
+.product-name{
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.product-b{
+    background-color: #1B3551;
+    color: white;
+    width: 250px;
+    border: none;
+    border-radius: 13px;
+    height: 40px;
+}
+
+.section-6{
+    background-color: #F5F4F4;
+    width: 100%;
+    padding-bottom: 50px;
+
+}
+.contact-h{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.contact{
+    width: 100%;
+    background: linear-gradient(103.95deg, #344E7F 0%, #333C45 69.62%);
+    color: white;
+    border-radius: 10px 0 0 10px;
+}
+.contact-texts{
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 150px;
+
+}
+.contact-texts-h{
+    font-size: 20px;
+    font-weight: 500;
+}
+.contact-logo{
+    width: 100%;
+    background-color: white;
+    border-radius: 0 10px 10px 0;
+
+}
+.contact-logo-img{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 43px;
+}
+.footer{
+    width: 100%;
+    background-color: #1B3551;
+}
+.footer-hr{
+    border: 1px solid;
+    color: #F5F4F4;
+
+}
+.footer-p{
+    font-size: 12px;
+    color: white;
+}
+.footer-social-p{
+    font-size: 20px;
+    color: white;
+}
 @media only screen and (max-width: 600px) {
+    body{
+        overflow-x: scroll;
+    }
     .main-logo{
         margin-top: 0vh;
     }
@@ -58,8 +165,19 @@ body{
         height: 45vh;
     }
     .logo-text{
-        font-size: 10px;
+        font-size: 14px;
         font-weight: 500;
+        margin-bottom: 80px;
+    }
+    .dir-h{
+        font-size: 25px;
+        font-weight: 400;
+        padding: 30px;
+    }
+    .footer-social-p{
+        margin-top: 5px;
+        font-size: 11px;
+        color: white;
     }
 
   }

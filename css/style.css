@@ -155,7 +155,7 @@ body{
 }
 @media only screen and (max-width: 600px) {
     body{
-        overflow-x: scroll;
+        overflow-x: hidden;
     }
     .main-logo{
         margin-top: 0vh;

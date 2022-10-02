@@ -8,7 +8,7 @@ body{
 }
 
 .section-2{
-    width: 96%;
+    width: 100%;
 }
 .main-logo{
     margin-top: 100px;
@@ -157,6 +157,9 @@ body{
     body{
         overflow-x: hidden;
     }
+    .section-2{
+        width: 96%;
+    }
     .main-logo{
         margin-top: 0vh;
     }
@@ -173,6 +176,17 @@ body{
         font-size: 25px;
         font-weight: 400;
         padding: 30px;
+    }
+    .contact{
+        width: 100%;
+        background: linear-gradient(103.95deg, #344E7F 0%, #333C45 69.62%);
+        color: white;
+        border-radius: 10px 10px 0 0;
+    }
+    .contact-logo{
+        width: 100%;
+        background-color: white;
+        border-radius: 0 0 10px 10px;
     }
     .footer-social-p{
         margin-top: 5px;

@@ -22,7 +22,7 @@ body{
     padding-top: 20px;
 }
 .specialities-texts{
-    padding: 100px;
+    padding: 130px;
 }
 .prd-sp-h{
     font-size: 30px;
@@ -33,12 +33,6 @@ body{
     margin-top: 10px;
     font-size: 20px;
     font-weight: 500;
-}
-
-@media only screen and (max-width: 1460px) {
-    
-}
-@media only screen and (min-width: 1460px) {
 }
 @media only screen and (max-width: 600px) {
     .prd-img-C{
@@ -64,7 +58,7 @@ body{
         padding-top: 20px;
     }
     .specialities-texts{
-        padding: 30px;
+        padding: 38px;
     }
     .prd-sp-h{
         font-size: 20px;

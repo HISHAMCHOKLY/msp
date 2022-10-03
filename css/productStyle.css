@@ -1,5 +1,6 @@
 .prd-img-C{
     margin-top: 100px;
+    width: 100%;
 }
 .prd-logo-p{
     font-size: 20px;
@@ -34,6 +35,7 @@
 @media only screen and (max-width: 600px) {
     .prd-img-C{
         margin-top: 100px;
+        width: 200px;
     }
     .prd-logo-p{
         font-size: 15px;
@@ -53,7 +55,7 @@
         padding-top: 20px;
     }
     .specialities-texts{
-        padding: 50px;
+        padding: 30px;
     }
     .prd-sp-h{
         font-size: 15px;
@@ -61,7 +63,7 @@
     }
     .prd-sp-p{
         padding-top: 10px;
-        margin-top: 10px;
+        margin-top: 20px;
         font-size: 10px;
         font-weight: 500;
     }

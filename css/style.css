@@ -7,6 +7,9 @@ body{
     height: 50px;
 
 }
+.navbar-btn{
+    visibility: hidden;
+}
 
 .section-2{
     width: 100%;
@@ -164,6 +167,12 @@ body{
     .menu{
         width: 100%;
         height: 100vh;
+    }
+    .navbar-btn{
+        visibility: visible;
+        border: none;
+        background-color: white;
+        width: 30px;
     }
     .section-2{
         width: 96%;

@@ -12,6 +12,9 @@ body{
     font-weight: 500;
     color: black;
 }
+.nav-p:hover{
+    color: #1B3551;
+}
 .navbar-btn{
     visibility: hidden;
 }

@@ -176,6 +176,10 @@ body{
         font-weight: 500;
         margin-bottom: 80px;
     }
+    .about-texts{
+        padding-top: 30px;
+        text-align: center;
+    }
     .dir-h{
         font-size: 25px;
         font-weight: 400;

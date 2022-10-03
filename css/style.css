@@ -172,9 +172,10 @@ body{
         visibility: visible;
         border: none;
         background-color: white;
-        width: 50px;
-        height: 50px;
 
+    }
+    .navbar-icon{
+        font-size: 25px;
     }
     .section-2{
         width: 96%;
